@@ -1,0 +1,14 @@
+ObjectType;Name;AdviseType;AllowRead;AllowWrite;N1;N2;N3;N4
+IOFolder;Entradas_Digitais_IO;;;;;;;
+IOTag;Entradas_Digitais_IO.ESD1_ED4_01;0;TRUE;FALSE;11;1;30;1
+IOTag;Entradas_Digitais_IO.ESD1_ED4_02;0;TRUE;FALSE;11;1;30;2
+IOTag;Entradas_Digitais_IO.ESD1_ED4_03;0;TRUE;FALSE;11;1;30;3
+IOTag;Entradas_Digitais_IO.ESD1_ED4_04;0;TRUE;FALSE;11;1;30;4
+IOTag;Entradas_Digitais_IO.ESD1_ED4_05;0;TRUE;FALSE;11;1;30;5
+IOTag;Entradas_Digitais_IO.ESD1_ED4_06;0;TRUE;FALSE;11;1;30;6
+IOTag;Entradas_Digitais_IO.ESD1_ED4_07;0;TRUE;FALSE;11;1;30;7
+IOTag;Entradas_Digitais_IO.ESD1_ED4_08;0;TRUE;FALSE;11;1;30;8
+IOTag;Entradas_Digitais_IO.ESD1_ED4_09;0;TRUE;FALSE;11;1;30;9
+IOTag;Entradas_Digitais_IO.ESD1_ED4_10;0;TRUE;FALSE;11;1;30;10
+IOTag;Entradas_Digitais_IO.ESD1_ED4_11;0;TRUE;FALSE;11;1;30;11
+IOTag;Entradas_Digitais_IO.ESD1_ED4_12;0;TRUE;FALSE;11;1;30;12
