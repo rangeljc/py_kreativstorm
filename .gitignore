@@ -8,6 +8,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+*/.videoClass/*
+*.mp4
+
 */tmp.ipynb/*
 
 # IPython
