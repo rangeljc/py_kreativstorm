@@ -31,7 +31,7 @@ def sendEmailTo(rec_email, sub, body):
     smtp_server = 'smtp.gmail.com'
     smtp_port = 587
     smtp_username = 'mentoriafamiliar@gmail.com'
-    smtp_password = 'j1l2a3j4'
+    smtp_password = ''
 
     message = f'Subject: {sub}\n\n{body}'
 
