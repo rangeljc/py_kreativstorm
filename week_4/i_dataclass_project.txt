@@ -1,0 +1,19 @@
+Task Overview: Employee Management System using Dataclasses
+
+Build a Python program to manage employee records using dataclasses. Implement the following tasks:
+
+    Define an Employee class using dataclasses with attributes like name, age, department, and salary.
+
+    Create an empty list to store employee objects.
+
+    Add employees to the system by creating instances of the Employee class and adding them to the list.
+
+    Display the details of all employees in the system.
+
+    Allow for updating employee details, such as salary, by searching for an employee by name.
+
+    Provide the functionality to remove an employee from the system by searching for them by name.
+
+    Display the updated details of the remaining employees.
+
+Note: You can expand the project by adding search or sorting functionality, or by storing the employee data in a database or file.
